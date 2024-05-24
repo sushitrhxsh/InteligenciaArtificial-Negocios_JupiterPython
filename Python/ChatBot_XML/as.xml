@@ -1,0 +1,90 @@
+<aiml version="1.0.1" encoding="UTF-8">
+    <category>
+        <pattern>HOLA</pattern>
+        <template>
+            Hola, bienvenido a nuestro chat sobre comida. ¿En qué puedo ayudarte hoy?
+        </template>
+    </category>
+
+    <category>
+        <pattern>SI PODRIAS RECOMENDARME UNA COMIDA SALUDABLE</pattern>
+        <template>
+            Si, aqui tienes algunas opciones de comidas saludables incluyen:
+            - Ensaladas frescas con verduras variadas.
+            - Pescado a la parrilla con limón y hierbas.
+            - Pollo a la plancha con vegetales al vapor.
+            - Quinoa o arroz integral con vegetales.
+            ¿Te gustaría conocer cual es el platillo tipo de yucatan?
+        </template>
+    </category>
+
+    <category>
+        <pattern>SI DIME CUAL ES</pattern>
+        <template>
+            El plato típico de yucatan es conocido como Cochinita pibil.
+        </template>
+    </category>
+    
+    <category>
+        <pattern>PUEDES DECIRME QUE ES UNA PIZZA</pattern>
+        <template>
+            Una pizza es un platillo italiano que generalmente consiste en una base de masa, salsa de tomate y queso, y se puede aderezar con una variedad de ingredientes como pepperoni, champiñones, etc.
+        </template>
+    </category>
+
+     <category>
+        <pattern>PUEDES DECIRME QUE ES UNA HAMBURGUESA</pattern>
+        <template>
+            Una hamburguesa es un tipo de sándwich que consta de una o más piezas de carne molida (generalmente de res) que se cocina y se sirve en un pan, que suele tener forma redonda. La carne para hamburguesa se sazona y se moldea en forma de disco antes de cocinarla. Además de la carne, las hamburguesas suelen llevar condimentos como sal y pimienta.    
+        </template>
+    </category>
+
+    <category>
+        <pattern>CUAL ES TU COMIDA FAVORITA</pattern>
+        <template>
+            Como soy un chatbot, no tengo preferencias alimenticias, pero me encanta aprender sobre diferentes platillos. ¿Pero dime cuál es tu comida favorita?
+        </template>
+    </category>
+
+    <category>
+        <pattern>MI COMIDA FAVORITA SON LAS HAMBURGUESAS</pattern>
+        <template>
+            Interesante muy buena eleccion aunque sea un chatbot se oye muy delicioso. Pero te recomendaria  hacer una pasta quieres que te pase la receta?
+        </template>
+    </category>
+  
+    <category>
+        <pattern>SI PASA LA RECETA</pattern>
+        <template>
+            Para hacer una deliciosa pasta, necesitarás pasta de tu elección, salsa de tomate, y tus ingredientes favoritos. Cocina la pasta y mezcla con la salsa. ¡Listo para disfrutar!
+        </template>
+    </category>
+
+    <category>
+        <pattern>NO LA PASES</pattern>
+        <template>
+            Ok entiendo tu respuesta, como chatbot no puedo negarme, algo mas que quieras saber?
+        </template>
+    </category>
+
+    <category>
+        <pattern>QUE ES SUSHI</pattern>
+        <template>
+            OK! El sushi es una especialidad japonesa que generalmente consiste en arroz sazonado y pescado crudo o mariscos. También puede incluir vegetales y algas marinas.
+        </template>
+    </category>
+
+    <category>
+        <pattern>NO GRACIAS</pattern>
+        <template>
+            Ok!, Si tienes más preguntas sobre comida, estaré aquí muchas gracias.
+        </template>
+    </category>
+
+    <category>
+        <pattern>BYE</pattern>
+        <template>
+            ¡Hasta luego! Si tienes más preguntas sobre comida, estaré aquí.
+        </template>
+    </category>
+</aiml>

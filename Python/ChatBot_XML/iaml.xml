@@ -1,0 +1,44 @@
+<aiml version="1.0.1" encoding="UTF-8">
+    <category>
+        <pattern>HOLA *</pattern>
+        <template>
+            Hola mi nombre es panchito soy tu asistente el dia de hoy!
+        </template>
+    </category>
+
+    <category>
+        <pattern>CONECTA NODOS EN UNA RED</pattern>
+        <template>
+            Es un switch
+        </template>
+    </category>
+
+    <category>
+        <pattern>CONECTA NODOS DIFERENTES</pattern>
+        <template>
+            Es un ruteador
+        </template>
+    </category>
+
+    <category>
+        <pattern>CONECTA EQUIPOS DE FORMA INALAMBRICA</pattern>
+        <template>
+            Es un access point (punto de acceso inalambrico) 
+        </template>
+    </category>
+    
+    <category>
+        <pattern>UTILIZA EL METODO WPA2</pattern>
+        <template>
+            Es un metodo para cifrar la informacion
+        </template>
+    </category>
+    
+    <category>
+        <pattern>ADIOS</pattern>
+        <template>
+            Bye, muchas gracias por preguntar
+        </template>
+    </category>
+
+</aiml>
